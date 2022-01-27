@@ -1,0 +1,7 @@
+{
+    "api": {
+        "search_url":"https://urlscan.io/api/v1/search/",
+        "quota_url":"https://urlscan.io/user/quotas/",
+        "api_key":"48dccd8d-b315-4792-a95f-41455366093e"
+    }
+}

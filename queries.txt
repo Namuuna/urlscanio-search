@@ -1,0 +1,1 @@
+page.domain:(mangakalot*),page.url.keyword:https\:\/\/www.crunchyroll.com\/pt*,page.ip:* AND date:>now-7d
