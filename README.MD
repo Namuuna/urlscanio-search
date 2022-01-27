@@ -16,3 +16,4 @@ This program takes in input queries and generates html file to show the result U
 4. Output:
     -Output html file will be generated in the /output folder. Users will be able to choose from dropdown any query that's been executed to see hte results. 
 
+Example output html file in /output: "output-20220127-0244.html"
